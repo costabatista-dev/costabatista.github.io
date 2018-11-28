@@ -458,13 +458,14 @@ h3.profile-title {
 /*------ about us ------ */
 .about-image {
   overflow: hidden;
-  border: 4px solid #dddddd;
+  border: 4px solid #111416;
   margin-bottom: 40px;
 }
 .about-image img {
   width: 100%;
   display: block;
 }
+
 
 /*------ projects ------ */
 .projects-holder {
