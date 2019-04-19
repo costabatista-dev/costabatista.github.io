@@ -10,7 +10,7 @@
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #434343;
-  background: #dae3e7;
+  background: #112338;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -26,7 +26,7 @@ h6 {
   color: #778492;
 }
 a {
-  color: #3aaa64;
+  color: #0f499b;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -35,7 +35,7 @@ a {
 a:hover {
   text-decoration: underline;
   color: #5f6b77;
-  color: #2d844e;
+  color: #528bdd;
 }
 .btn,
 a.btn {
@@ -57,16 +57,16 @@ a.btn:focus {
 }
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #54ba4e;
-  border: 1px solid #54ba4e;
+  background: #0f499b;
+  border: 1px solid #0f499b;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
-  background: #49ac43;
-  border: 1px solid #49ac43;
+  background: #0f499b;
+  border: 1px solid #0f499b;
   color: #fff;
 }
 a.btn-cta-secondary,
@@ -87,7 +87,7 @@ a.btn-cta-secondary:hover,
   color: #32383e;
 }
 .label-theme {
-  background: #3aaa64;
+  background: #0f499b;
   font-size: 12px;
 }
 a.dotted-link {
@@ -115,7 +115,7 @@ iframe {
 .header {
   padding: 30px 0;
   background: #f5f5f5;
-  border-top: 10px solid #778492;
+  border-top: 10px solid #000;
 }
 .header .btn {
   margin-top: 60px;
@@ -231,7 +231,7 @@ iframe {
   position: relative;
 }
 .latest .featured-image .text {
-  background: #3aaa64;
+  background: #292e35;
   color: #fff;
 }
 .latest .featured-image .ribbon {
@@ -372,7 +372,7 @@ iframe {
 }
 .skills .skillset .level-bar-inner {
   height: 15px;
-  background: #66cb8c;
+  background: #528bdd;
 }
 /* Testimonials section */
 .testimonials .item {
@@ -384,11 +384,11 @@ iframe {
 .testimonials .item .quote {
   color: #666666;
   font-size: 16px;
-  border-left-color: #9fdeb7;
+  border-left-color: #afcdf7;
   margin-bottom: 15px;
 }
 .testimonials .item .quote .fa {
-  color: #79d19a;
+  color: #528bdd;
   margin-right: 15px;
 }
 .testimonials .item .source {
@@ -439,7 +439,7 @@ iframe {
   margin-bottom: 0;
 }
 .languages .item .fa {
-  color: #79d19a;
+  color: #32373f;
 }
 /* Blog Section */
 .blog .item {
@@ -489,7 +489,7 @@ iframe {
 }
 /* ======= Footer ======= */
 .footer {
-  background: #32383e;
+  background: #000;
   color: #fff;
   padding: 10px 0;
 }
