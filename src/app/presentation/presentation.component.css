@@ -3,7 +3,7 @@
 }
 
 .card-container {
-    margin: 16px;
+    margin: 64px;
     box-shadow: 10px 5px 5px #39393b;
     border-radius: 10px;
     background-color: #fff;
@@ -26,4 +26,12 @@
 .profile {
     border-radius: 50%;
     box-shadow: 2px 2px 2px #39393b;
+}
+
+.line-div {
+    height:2px;
+    border-width:0;
+    color:#000;
+    background-color:#000;
+    margin-top: 16px;
 }
