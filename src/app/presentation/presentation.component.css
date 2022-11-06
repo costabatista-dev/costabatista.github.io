@@ -1,0 +1,29 @@
+.paragraph {
+    justify-content: flex-start;
+}
+
+.card-container {
+    margin: 16px;
+    box-shadow: 10px 5px 5px #39393b;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.background {
+    background-color: #97989c;
+}
+
+.end-presentation {
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.presentation-icon {
+    margin: 10px;
+}
+
+.profile {
+    border-radius: 50%;
+    box-shadow: 2px 2px 2px #39393b;
+}
